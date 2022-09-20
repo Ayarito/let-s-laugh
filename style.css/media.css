@@ -17,7 +17,7 @@
         font-size: 18px;
         border-radius: 10px;
         background: #e8e8e8;
-        border: 5px solid goldenrod;
+        border: 10px solid goldenrod;
         box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
            
 }
@@ -25,7 +25,7 @@
     margin: 10px;
     padding: 30px;
     border-radius: 10px;
-    border: 1px solid black;
+    border: 10px solid black;
     box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
     background: #e8e8e8;
     text-align: center;
